@@ -1,5 +1,3 @@
-# Python_OOP
-
 # 📘 Python OOP Concepts
 
 This repository contains examples of **Object-Oriented Programming (OOP) in Python**, covering the most important principles such as **Abstraction, Inheritance, Polymorphism, and Encapsulation**.  
